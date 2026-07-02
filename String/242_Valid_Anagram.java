@@ -1,3 +1,4 @@
+package String;
 class Solution {
     public boolean isAnagram(String s, String t) {
         int freq[]=new int[26];
